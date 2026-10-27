@@ -23,7 +23,7 @@ Logistic Regression, KNN, and SVM use a saved StandardScaler inside the model pi
 
 ## c. Github Repository Link
 
-Add the public GitHub repository link here after the repository is created.
+https://github.com/Vinod2300/dry-bean-classification
 
 ## d. Models used
 
